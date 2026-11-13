@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/IDENTITY-CREATIVE%20BUILDER-087F5B?style=flat-square">
+<img src="https://img.shields.io/badge/IDENTITY-CREATIVE%20DEVELOPER-087F5B?style=flat-square">
 <img src="https://img.shields.io/badge/FOCUS-DIGITAL%20EXPERIENCES-263238?style=flat-square">
 <img src="https://img.shields.io/badge/STATUS-EVOLVING-087F5B?style=flat-square">
 
